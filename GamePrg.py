@@ -1,0 +1,2 @@
+
+NextGame = 0
